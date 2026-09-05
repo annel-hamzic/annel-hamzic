@@ -25,7 +25,7 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/annel-hamzic](https://linkedin.com/in/)
 * **Portfolio Repository:** [Hybrid AD & Entra ID Lab](https://github.com/annel-hamzic/Hybrid-Active-Directory-Entra-ID-Lab)
