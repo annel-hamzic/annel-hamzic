@@ -1,4 +1,4 @@
-# Hi, I'm Annel 👋
+# Hi, I'm Annel!
 
 **`Pricing Analyst | Aspiring Systems Administrator & IT Operations Specialist`**
 
@@ -6,7 +6,7 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 
 ---
 
-## 🛠️ Technical Skill Set
+## Technical Skill Set
 
 * **Directory & Identity Management:** Active Directory DS, Microsoft Entra ID (Azure AD), Entra Connect Sync, Password Hash Sync (PHS), Group Policy (GPO), Cloud RBAC.
 * **Virtualization & Hypervisors:** KVM/QEMU, `virt-manager`, VirtualBox, Windows Server 2025/2022, Fedora Linux Workstation.
@@ -15,7 +15,7 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 
 ---
 
-## 💻 Featured Portfolio Projects
+## Featured Portfolio Projects
 
 ### [Hybrid Active Directory & Microsoft Entra ID Identity Lab](https://github.com/annel-hamzic/Hybrid-Active-Directory-Entra-ID-Lab)
 * Designed and deployed a virtualized hybrid identity lab bridging an on-premises Windows Server Domain Controller with Microsoft Entra ID on a **Fedora Linux** host via **KVM/virt-manager**.
@@ -25,7 +25,7 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/annel-hamzic](https://linkedin.com/in/)
 * **Portfolio Repository:** [Hybrid AD & Entra ID Lab](https://github.com/annel-hamzic/Hybrid-Active-Directory-Entra-ID-Lab)
