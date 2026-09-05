@@ -1,6 +1,6 @@
 # Hi, I'm Annel!
 
-**Pricing Analyst | Aspiring Systems Administrator & IT Operations Specialist**
+**`Pricing Analyst | Aspiring Systems Administrator & IT Operations Specialist`**
 
 I specialize in systems administration, hybrid identity infrastructure, and Linux virtualization. I enjoy building hands-on labs to solve real-world enterprise infrastructure challenges, with a focus on Active Directory, Microsoft Entra ID, and cloud governance.
 
