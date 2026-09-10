@@ -23,6 +23,12 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 * Diagnosed and resolved MSAL application registration failures (`AADSTS700027`) by troubleshooting VM-to-host clock skews using `w32tm`.
 * Enforced cloud Zero Trust security controls through **Security Defaults** and scoped **Role-Based Access Control (RBAC)** delegation (Helpdesk Administrator).
 
+### [Fedora Server Hardening & Vulnerability Assessment Lab](https://github.com/annel-hamzic/Fedora-Server-Hardening-Vulnerability-Assessment-Lab)
+* Deployed a **Fedora Server 44** VM on **KVM/QEMU**, then hardened it from a default install to a locked-down baseline: non-standard SSH port, disabled root login, and **ED25519** key-based authentication in place of passwords.
+* Updated **SELinux** port policy (`semanage port`, `ssh_port_t`) and **firewalld** rules in tandem so the relabeled SSH port stayed enforced under SELinux rather than working around it.
+* Ran before/after **Nmap** scans and NSE vulnerability scripts to validate the reduced attack surface and check for exposed CVEs on remaining open services.
+* Applied and verified security patches via `dnf update --security`, closing the loop from baseline scan to remediation.
+
 ---
 
 ## Connect With Me
