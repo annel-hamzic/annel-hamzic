@@ -19,12 +19,6 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 
 ## Featured Portfolio Projects
 
-### [Sentinel Hybrid SIEM Lab](https://github.com/annel-hamzic/sentinel-hybrid-siem-lab)
-* Built a hybrid security monitoring lab: on-premises **Windows Server 2022** and **Ubuntu Server** VMs on **KVM/virt-manager**, onboarded to Azure with **Azure Arc** and sending security logs to **Microsoft Sentinel** through the **Azure Monitor Agent**.
-* Wrote three custom **KQL** analytics rules mapped to **MITRE ATT&CK** (SSH brute force, Windows failed-logon brute force, and accounts added to the Administrators group), and confirmed each one by triggering a real incident.
-* Automated attack simulation with **PowerShell** and security reporting with **Python** (Azure Monitor Query SDK).
-* Worked around a tenant policy that blocked device-code sign-in by onboarding servers with a least-privilege **service principal**, scoped to one resource group, with a one-day secret.
-
 ### [Hybrid Active Directory & Microsoft Entra ID Identity Lab](https://github.com/annel-hamzic/Hybrid-Active-Directory-Entra-ID-Lab)
 * Designed and deployed a virtualized hybrid identity lab bridging an on-premises Windows Server Domain Controller with Microsoft Entra ID on a **Fedora Linux** host via **KVM/virt-manager**.
 * Configured Organizational Unit (OU) filtering and alternative UPN suffix mappings to scope **Password Hash Synchronization (PHS)** using Microsoft Entra Connect.
@@ -37,6 +31,11 @@ I specialize in systems administration, hybrid identity infrastructure, and Linu
 * Ran before/after **Nmap** scans and NSE vulnerability scripts to validate the reduced attack surface and check for exposed CVEs on remaining open services.
 * Applied and verified security patches via `dnf update --security`, closing the loop from baseline scan to remediation.
 
+### [Sentinel Hybrid SIEM Lab](https://github.com/annel-hamzic/sentinel-hybrid-siem-lab)
+* Built a hybrid security monitoring lab: on-premises **Windows Server 2022** and **Ubuntu Server** VMs on **KVM/virt-manager**, onboarded to Azure with **Azure Arc** and sending security logs to **Microsoft Sentinel** through the **Azure Monitor Agent**.
+* Wrote three custom **KQL** analytics rules mapped to **MITRE ATT&CK** (SSH brute force, Windows failed-logon brute force, and accounts added to the Administrators group), and confirmed each one by triggering a real incident.
+* Automated attack simulation with **PowerShell** and security reporting with **Python** (Azure Monitor Query SDK).
+* Worked around a tenant policy that blocked device-code sign-in by onboarding servers with a least-privilege **service principal**, scoped to one resource group, with a one-day secret.
 ---
 
 ## Connect With Me
